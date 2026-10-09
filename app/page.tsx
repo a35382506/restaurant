@@ -166,7 +166,6 @@ export default function Home() {
       {/* Footer */}
       <footer id="contact" className="mt-auto border-t border-stone-200 px-6 py-8 sm:px-12">
         <div className="flex flex-col items-center justify-between gap-4 text-sm text-stone-500 sm:flex-row">
-          <p>© {new Date().getFullYear()} Frenchy&apos;s. All rights reserved.</p>
           <p className="font-serif text-red-900">Bon Appétit ✦</p>
         </div>
       </footer>
